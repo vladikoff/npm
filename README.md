@@ -1,4 +1,6 @@
-npm(1) -- a JavaScript package manager
+npm5v(1) -- a JavaScript package manager
+> Latest stable release of npm 5
+
 ==============================
 
 [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg)](https://travis-ci.org/npm/npm)
